@@ -7,6 +7,6 @@ This project is under progress :
 
 TODO:
 
--fix the connection to jaeger-backend 
--get a modified version of the HOTROD app that has been implemented in GO to port it in KOTLIN
--error handling and child span creation 
+*fix the connection to jaeger-backend 
+*get a modified version of the HOTROD app that has been implemented in GO to port it in KOTLIN
+*error handling and child span creation 
