@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
                 val reporterConfig = ReporterConfiguration(true, null, null, null, null)
                 val config = Configuration(service, samplerConfig, reporterConfig)
                 return config.tracer as com.uber.jaeger.Tracer
+
             }
 
             val tracer: Tracer =  initTracer("hello-world")
