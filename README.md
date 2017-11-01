@@ -38,12 +38,13 @@ Now that you have cloned the repo:
 App is currently built to work with Android API 24(Noughat).
 
 ### Screenshots 
+![screenshot logcat](https://github.com/dexter816/jaeger-opentracing-android/blob/master/logxcat.png)
 
 ### TODO's
 
-- [] fix the connection to jaeger-backend 
-- [] get a modified version of the HOTROD app that has been implemented in GO to port it in KOTLIN
-- [] error handling and child span creation 
+- [ ] fix the connection to jaeger-backend 
+- [ ] get a modified version of the HOTROD app that has been implemented in GO to port it in KOTLIN
+- [ ] error handling and child span creation 
 
 
 Please feel free to submit any suggestions for now 
