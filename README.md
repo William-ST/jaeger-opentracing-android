@@ -2,10 +2,10 @@
 
 ## About jaeger-opentracing-android
 
-This app will instantiante a tracer when the button displayed on screen is pressed 
+This app will instantiate a tracer when the button displayed on screen is pressed 
 The app then creates a span logs the details of the span generated,
 using jaeger-tracer ,the logs for the app displays the working status of span creation
-This project is under progress : 
+REMARK: This project is under progress.
  
 
 ## Getting Started
@@ -19,7 +19,7 @@ $ git@github.com:dexter816/jaeger-opentracing-android.git
 ```
 
 ## Prerequisites
-Haing gradle 4.0.0 version and android studio latest version with kotlin support
+Having gradle 4.0.0 version and android studio latest version with kotlin support
 
 ### Open and Run Project in android studio
 
@@ -35,7 +35,7 @@ Now that you have cloned the repo:
 
 ## Android Version Targeting
 
-App is currently built to work with Android API 24(Noughat).
+App is currently built to work with Android API 24(Nougat).
 
 ### Screenshots 
 ![screenshot logcat](https://github.com/dexter816/jaeger-opentracing-android/blob/master/logxcat.png)
@@ -47,4 +47,4 @@ App is currently built to work with Android API 24(Noughat).
 - [ ] error handling and child span creation 
 
 
-Please feel free to submit any suggestions for now 
+Please feel free to submit any suggestions or review :) 
