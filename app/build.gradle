@@ -36,4 +36,5 @@ dependencies {
     implementation group: 'com.uber.jaeger', name: 'jaeger-core', version: '0.22.0-RC1'
 // https://mvnrepository.com/artifact/io.opentracing/opentracing-util
     implementation group: 'io.opentracing', name: 'opentracing-util', version: '0.31.0-RC1'
+    implementation "com.google.guava:guava:23.0-android"
 }
